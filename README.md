@@ -159,7 +159,9 @@ canvas/数据可视化
 
  - [HTML.js][61] 轻量级的简化与`DOM`操作的js库。[view demo][62] `star:1.5K`
 
-[MEAN.JS][63] 全栈式javascript，使用`MongoDB, Express, AngularJS`和`Node.js`。`star:2.2K`
+ - [MEAN.JS][63] 全栈式javascript，使用`MongoDB, Express, AngularJS`和`Node.js`。`star:2.2K`
+
+ - [ScrollJS][98] 一款利用CSS Transition的轻量级数字滚动器。可用于动态显示时间，统计数字等。
 
 移动端
 ---
@@ -347,3 +349,4 @@ HTML5
   [95]: https://github.com/mbostock
   [96]: https://github.com/necolas
   [97]: https://github.com/RubyLouvre
+  [98]: https://github.com/sonic0002/ScrollJS
